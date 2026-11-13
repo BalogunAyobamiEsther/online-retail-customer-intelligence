@@ -11,6 +11,8 @@ An interactive Streamlit application built from the supplied Online Retail II no
 
 The original Excel workbooks and notebook are not required to run this app. They are intentionally not bundled because the app reads the exported tables and fitted artifacts only.
 
+**Explore the app:** [Online_Retail_Customer_Intelligence](https://online-retail-customer-intelligence-egz5sbrolitnwnqnxurh6w.streamlit.app/)
+
 ## Run locally
 
 Use Python 3.11 or 3.12 and create a virtual environment:
