@@ -1,4 +1,4 @@
-# Online Retail Customer Intelligence — Streamlit App
+# Online Retail Customer Intelligence 
 
 An interactive Streamlit application built from the supplied Online Retail II notebook outputs. It includes **Home**, **Sales Analytics**, **Customer Segments**, **Prediction**, **About**, and **How to Use** pages.
 
